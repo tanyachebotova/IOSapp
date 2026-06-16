@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  BaseApp
-//
-//  Created by Aleksandr Grachev on 23.01.2026.
-//
-
 import UIKit
 
 final class ViewController: UIViewController {
